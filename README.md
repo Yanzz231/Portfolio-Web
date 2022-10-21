@@ -1,9 +1,6 @@
+## Portfolio
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yanzz231/Portfolio-Web/index.PNG" width="150" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yanzz231/WibuNime-Streaming/master/img/dasktopw.PNG" width="550" />
+  <img src="https://raw.githubusercontent.com/Yanzz231/Portfolio-Web/master/index.PNG" width="550" />
 </p>
 
 <p align="center">Official Yanz - Portfolio.</p>
