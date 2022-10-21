@@ -1,0 +1,37 @@
+{
+     "PORT": 80,
+     "webname": "Yanzz Web",
+     "name": "Yanzz",
+     "deskripsi": "Gamer, Developer, Anime and Manga Enthusiast",
+     "about": [
+          "I'm a high school student interested in computer science :P",
+          "I like to walk around and be happy :D",
+          "I want to become a frontend developer one day!",
+          "Games I play: Genshin Impact, World of Warships, Tetris, and Osu!"
+     ],
+     "github": "https://github.com/Yanzz231",
+     "discord": "https://discord.gg/WHspdmrcVc",
+     "twitter": "/",
+     "proyek": [
+          {
+               "name": "Website Anime",
+               "img": "images/1.png",
+               "link": "https://github.com/Yanzz231/WibuNime-Streaming"
+          },
+          {
+               "name": "Website Api",
+               "img": "images/2.png",
+               "link": "https://github.com/Yanzz231/Yanz-Restapi"
+          },
+          {
+               "name": "Website Komik",
+               "img": "images/3.png",
+               "link": "https://github.com/Yanzz231/MaidDesu-Comic"
+          },
+          {
+               "name": "Bot Whatsapp",
+               "img": "images/4.png",
+               "link": "https://github.com/Yanzz231/Whatsapp-Bot"
+          }
+     ]
+}
